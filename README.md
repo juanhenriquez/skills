@@ -20,6 +20,7 @@ Copy or symlink a skill's directory into the target project's (or your user-leve
 
 | Skill | Category | Description |
 | --- | --- | --- |
+| [deslop](skills/engineering/deslop/SKILL.md) | engineering | Remove AI-generated code slop (stray comments, defensive checks, inconsistent style) from recent changes. |
 | [simplify](skills/engineering/simplify/SKILL.md) | engineering | Simplify and refine recently modified code for clarity and consistency without changing functionality. |
 
 ## Authoring
